@@ -23,6 +23,6 @@ Discord: `Raidoxx#4836`
 <br />
 
 
-![Raidoxxx GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raidoxxx&show_icons=true&hide=stars,commits&disable_animations=true)
+![Raidoxxx GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raidoxxx&show_icons=true&hide=stars,commits&disable_animations=true&theme=tokyonight)
 
 [twitter]: https://twitter.com/Raidoxxxx
