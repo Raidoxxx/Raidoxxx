@@ -30,7 +30,7 @@ Não sei o que dizer aqui :D
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="url(https://tenor.com/view/leonardo-dicaprio-gif-21978827)" align="center" style="width: 100%" />
+<img src="https://tenor.com/view/leonardo-dicaprio-gif-21978827" align="center" style="width: 100%" />
 </div>  
 
 
