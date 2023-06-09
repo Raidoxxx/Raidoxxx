@@ -8,7 +8,7 @@
 
 [<img align="left" alt="Raidoxxxx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
   
-Discord: `Raidoxx#4836`
+Discord: `raidoxx`
 
 <br />
 
