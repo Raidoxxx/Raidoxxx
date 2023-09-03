@@ -1,8 +1,6 @@
 ### Hi there, I'm Raidoxx👋 
 ![](https://komarev.com/ghpvc/?username=Raidoxxx&color=red)
 ## I'm a Student from the Brazil!
-- 💼 I help on the Open Collaboration project [@Heart Network](https://github.com/HeartNetwork)
-- ⚡ I'm a Project Lead [@Panic MC](https://github.com/PanicMC)
 
 ### Connect with me:
 
