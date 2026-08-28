@@ -4,15 +4,11 @@
 
 <br/>
 
-<a href="https://github.com/Raidoxxx">
-  <img src="https://img.shields.io/badge/GITHUB-RAIDOXXX-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://x.com/Raidoxxxx">
-  <img src="https://img.shields.io/badge/X-RAIDOXXXX-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<img src="https://img.shields.io/badge/DISCORD-RAIDOXX-0d1117?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+# Raidoxxx
 
-<br/><br/>
+Computer Science student from Brazil focused on web development, backend systems and APIs.
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Raidoxxx&label=PROFILE%20VIEWS&color=0d1117&style=flat-square" alt="Profile views" />
 
@@ -20,10 +16,12 @@
 
 ---
 
-<h2 align="center">About me</h2>
+<h2 align="center">
+  <img src="./assets/icon-book.svg" width="34" align="center" alt="About" />
+  &nbsp;About me
+</h2>
 
 <p align="center">
-Computer Science student from Brazil focused on web development, backend systems and APIs.<br/>
 I like turning ideas into real projects and improving them through practice, iteration and consistency.
 </p>
 
@@ -37,7 +35,10 @@ I like turning ideas into real projects and improving them through practice, ite
 
 ---
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">
+  <img src="./assets/icon-laptop.svg" width="34" align="center" alt="Technologies" />
+  &nbsp;Technologies
+</h2>
 
 <div align="center">
 
@@ -56,7 +57,10 @@ I like turning ideas into real projects and improving them through practice, ite
 
 ---
 
-<h2 align="center">Projects</h2>
+<h2 align="center">
+  <img src="./assets/icon-statue.svg" width="34" align="center" alt="Projects" />
+  &nbsp;Projects
+</h2>
 
 <div align="center">
 
@@ -86,7 +90,10 @@ I like turning ideas into real projects and improving them through practice, ite
 
 ---
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">
+  <img src="./assets/icon-laptop.svg" width="34" align="center" alt="Statistics" />
+  &nbsp;Statistics
+</h2>
 
 <div align="center">
 
@@ -101,7 +108,10 @@ I like turning ideas into real projects and improving them through practice, ite
 
 ---
 
-<h2 align="center">Contribution</h2>
+<h2 align="center">
+  <img src="./assets/icon-globe.svg" width="34" align="center" alt="Contribution" />
+  &nbsp;Contribution
+</h2>
 
 <div align="center">
 
@@ -111,7 +121,22 @@ I like turning ideas into real projects and improving them through practice, ite
 
 ---
 
+<h2 align="center">
+  <img src="./assets/icon-globe.svg" width="34" align="center" alt="Connect" />
+  &nbsp;Connect
+</h2>
+
 <div align="center">
+
+<a href="https://github.com/Raidoxxx">
+  <img src="https://img.shields.io/badge/GITHUB-RAIDOXXX-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://x.com/Raidoxxxx">
+  <img src="https://img.shields.io/badge/X-RAIDOXXXX-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<img src="https://img.shields.io/badge/DISCORD-RAIDOXX-0d1117?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+
+<br/><br/>
 
 <sub>Code. Build. Improve.</sub>
 
