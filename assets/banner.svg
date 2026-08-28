@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Raidoxxx GitHub profile banner</title>
+  <desc id="desc">Minimal monochrome landscape banner inspired by a dark developer portfolio.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#cfcfcf"/>
+    </linearGradient>
+    <linearGradient id="river" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#9b9b9b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="#0d1117"/>
+  <rect x="18" y="18" width="1164" height="284" rx="2" fill="none" stroke="#30363d"/>
+  <rect x="42" y="42" width="1116" height="236" fill="url(#sky)"/>
+
+  <text x="600" y="108" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="32" fill="#161b22" letter-spacing="3">RAIDOXXX</text>
+  <text x="600" y="142" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#3b3f45" letter-spacing="4">COMPUTER SCIENCE / WEB DEVELOPMENT</text>
+  <text x="600" y="172" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" fill="#161b22">&lt;/&gt;</text>
+
+  <path d="M42 216 C150 172 228 178 316 214 C390 244 474 228 548 204 C628 178 704 184 782 218 C866 254 960 246 1158 204 L1158 278 L42 278 Z" fill="#15181d"/>
+  <path d="M42 244 C170 206 258 218 338 246 C430 278 506 248 582 222 C674 190 750 214 830 248 C912 282 1006 270 1158 228 L1158 278 L42 278 Z" fill="#23262c"/>
+  <path d="M550 278 C590 252 626 238 665 231 C632 220 608 210 596 200 C628 205 654 215 684 230 C650 242 626 257 608 278 Z" fill="url(#river)" opacity="0.9"/>
+
+  <line x1="42" y1="278" x2="1158" y2="278" stroke="#6e7681" stroke-width="1" opacity="0.45"/>
+</svg>
